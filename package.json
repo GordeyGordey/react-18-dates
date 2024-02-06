@@ -1,7 +1,7 @@
 {
-  "name": "react-dates",
-  "version": "21.8.0",
-  "description": "A responsive and accessible date range picker component built with React",
+  "name": "react-dates-18",
+  "version": "21.8.1",
+  "description": "A responsive and accessible date range picker component built with React. Forked to add support for react 18",
   "main": "index.js",
   "scripts": {
     "prebuild": "npm run clean",
@@ -134,8 +134,8 @@
   "peerDependencies": {
     "@babel/runtime": "^7.0.0",
     "moment": "^2.18.1",
-    "react": "^0.14 || ^15.5.4 || ^16.1.1",
-    "react-dom": "^0.14 || ^15.5.4 || ^16.1.1"
+    "react": ">=16.1.1",
+    "react-dom": ">=16.1.1"
   },
   "engines": {
     "node": ">=0.10"
