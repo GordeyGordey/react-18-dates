@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+process.env.BABEL_DISABLE_CACHE = '1';
+
 const fs = require('fs');
 const CleanCSS = require('clean-css');
 
