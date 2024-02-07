@@ -1,6 +1,6 @@
 {
-  "name": "react-dates-18",
-  "version": "21.8.1",
+  "name": "react-18-dates",
+  "version": "21.8.2",
   "description": "A responsive and accessible date range picker component built with React. Forked to add support for react 18",
   "main": "index.js",
   "scripts": {
